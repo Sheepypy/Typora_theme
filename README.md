@@ -172,38 +172,38 @@ My self-use Typora theme
       color: var(--code-green);
   }
   
-.cm-s-inner .cm-bracket {/* 花括号 */
-    color: #00BFFF;
-}
-  
-  .cm-s-inner .cm-atom,
-  .cm-s-inner.cm-atom {
-      color: var(--code-cyan);/* 原子 true、false 蓝绿色*/
+  .cm-s-inner .cm-bracket {/* 花括号 */
+      color: #00BFFF;
   }
-  
-  .cm-s-inner .cm-number { 
-      color: var(--code-purple);/*数字，紫色*/
-  }
-  
-  .cm-s-inner .cm-variable {
-      color: var(--code-foreground);
-  }
-  
-  .cm-s-inner .cm-variable-2 {
-      color: var(--code-foreground);
-  }
-  
-  .cm-s-inner .cm-variable-3 {/*返回值、变量类型，int、void等，蓝绿色*/
-      color: var(--code-cyan);
-      font-style: italic;
-  }
-  
-  .CodeMirror-selectedtext,
-  .CodeMirror-selected {
-      background: var(--code-current-line);
-      color: #fff !important;
-      text-shadow: none;
-  }
+    
+    .cm-s-inner .cm-atom,
+    .cm-s-inner.cm-atom {
+        color: var(--code-cyan);/*原子 true、false 蓝绿色*/
+    }
+    
+    .cm-s-inner .cm-number { 
+        color: var(--code-purple);/*数字，紫色*/
+    }
+    
+    .cm-s-inner .cm-variable {
+        color: var(--code-foreground);
+    }
+    
+    .cm-s-inner .cm-variable-2 {
+        color: var(--code-foreground);
+    }
+    
+    .cm-s-inner .cm-variable-3 {/*返回值、变量类型，int、void等，蓝绿色*/
+        color: var(--code-cyan);
+        font-style: italic;
+    }
+    
+    .CodeMirror-selectedtext,
+    .CodeMirror-selected {
+        background: var(--code-current-line);
+        color: #fff !important;
+        text-shadow: none;
+    }
   
   ```
 
