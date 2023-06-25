@@ -9,8 +9,7 @@ My self-use Typora theme
 # 效果展示
 在官方给的主题上做了一些改动，符合我自己的审美，修改了内容宽度、代码颜色、标题样式、引用块颜色等等，在代码中也有一定的注释说明，希望能给找一个好看的主题的同学提供帮助。
 
-先放一下整体效果：
-
+整体效果：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7636b3f2fc0a4602816f5213914b84f8.png)
 
 代码效果：
@@ -18,6 +17,12 @@ My self-use Typora theme
 
 表格效果：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c6b477d795d140918a2e78c0ceca5bdb.png)
+
+引用动态显示（鼠标划过变色）：
+![image](https://github.com/Sheepypy/Typora_theme/assets/84173072/403f6069-fbe5-4459-bab8-243414bcb9cb)
+![image](https://github.com/Sheepypy/Typora_theme/assets/84173072/eeeb25d0-66cb-4cee-920f-4c5dde2f0487)
+
+
 
 # 自定义修改
 一些涉及个人审美的地方可以自己修改，例如：
